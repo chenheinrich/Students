@@ -1,9 +1,9 @@
 # Things to download/sign-up/learn
 
 ## 1. Visual Studio Code
-  - We use VS Code as editor for collaborative code, so that spaces and tabs are treated uniformly. (It is also just the most recommended editor around here.) 
+  - We use VS Code as editor for collaborative code, so that spaces and tabs are treated uniformly. (It is also our most recommended editor.) 
   - Some tips: from terminal, `code script.py` would open the script in question easily.
-  - Add the Python extension and others to help you when you code.
+  - Add the Python extension, pylint, etc to help you when you code.
   
 ## 2. Visual Studio Code Insider 
   - Visual Studio Code Insider lets you edit code and view plots on clusters just like on your laptop (i.e. it has an internal ssh client) -- highly recommended. 
