@@ -15,6 +15,6 @@
   
 ## 4. Google Python Style Guide
   - We try our best to adhere to [Google's Python Style Guide](http://google.github.io/styleguide/pyguide.html).
-  - Get familiar with it, and it will help you code for yourself and others (especially the docstring part).
+  - It will help you code for yourself and others (especially the docstring part) the earlier you start to become familiar with it.
   
   
