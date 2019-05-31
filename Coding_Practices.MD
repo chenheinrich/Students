@@ -6,7 +6,8 @@
   - Add the Python extension and others to help you when you code.
   
 ## 2. Visual Studio Code Insider 
-  - Visual Studio Code Insider lets you edit code and view plots on clusters just like on your laptop (i.e. it has an internal ssh client).
+  - Visual Studio Code Insider lets you edit code and view plots on clusters just like on your laptop (i.e. it has an internal ssh client) -- highly recommended. 
+  - Follow instructions to setup the [remote development extension](https://code.visualstudio.com/docs/remote/ssh) . They also have a great page on how to [setup ssh key](https://code.visualstudio.com/docs/remote/troubleshooting#_improving-your-security-with-a-dedicated-key) based authentification.
   
 ## 3. GitHub
   - We often collaborate using Git repositories for version control, make an account on GitHub to join. 
